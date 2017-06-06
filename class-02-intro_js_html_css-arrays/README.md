@@ -14,7 +14,7 @@
 - [Topics from HTML readings](#html) *[15 minutes]*
 - [Topics from CSS readings](#css) *[30 minutes]*
 - *10 minute break*
-- [Topics from JS readings](#js) *[45 minutes]*
+- [Topics from JS readings, and linter setup](#js) *[45 minutes]*
 - *10 minute break*
 - [Learning Journal + `git init`](#lj) *[30 minutes]*
 - [Review lab assignment, code demo, `git clone`](#code) *[30 minutes]*
