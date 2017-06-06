@@ -9,6 +9,8 @@
 
 *No code review today; we will start doing code reviews tomorrow. Expect lecture to go to about 12:15 or 12:30 today. We'll take 2 breaks to make it work.*
 
+*Note that Sam has a dentist appointment this afternoon and will be gone from the end of class probably through the rest of the day. It's possible he'll return late in lab, but unclear depending upon after he feels after a couple of hours of medieval torture. So, we'll see.*
+
 - [Topics from HTML readings](#html) *[15 minutes]*
 - [Topics from CSS readings](#css) *[30 minutes]*
 - *10 minute break*
