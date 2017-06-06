@@ -5,7 +5,7 @@
 
 #### Quiz 1 will be published this afternoon. It will be due at 11:59pm tomorrow night (late Wednesday)
 
-####Class Roadmap for Today
+#### Class Roadmap for Today
 
 *No code review today; we will start doing code reviews tomorrow. Expect lecture to go to about 12:15 or 12:30 today. We'll take 2 breaks to make it work.*
 
