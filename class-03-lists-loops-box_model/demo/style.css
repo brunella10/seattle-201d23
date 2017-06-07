@@ -1,0 +1,40 @@
+* {
+  color: blue;
+  font-family: Helvetica, sans-serif;
+  background-color: #ccc;
+  /*outline: 1px solid black;*/
+}
+
+body {
+  padding: 100px;
+}
+
+h1 {
+  font-size: 3em;
+  width: 10%;
+  display: inline;
+  background-image: url('cat-water.gif');
+  /*outline: 3px dashed yellow;*/
+}
+
+.seagull {
+  color: red;
+  font-size: 1em;
+  /*outline: 2px dotted green;*/
+}
+
+.orangeboy {
+  /*color: orange;*/
+}
+
+li {
+  outline: 3px solid purple;
+  display: inline;
+  padding: 20px;
+}
+
+p {
+  display: inline;
+  margin-top: 100px;
+  /*padding: 10px;*/
+}
