@@ -9,6 +9,7 @@
 - **Announcements**
   - Any general questions?
   - You have a fair amount of work for lab time today and the weekend. There's three parts:
+  
   		- 1. Finish the Salmon Cookie project
   		- 2. Complete the wireframe exercise that we start in class today
   		- 3. Complete the design comp lab assignment that you'll get this afternoon
