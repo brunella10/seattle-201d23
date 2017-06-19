@@ -2,3 +2,29 @@ body {
   font-family: Helvetica, sans-serif;
   background-color: gray
 }
+
+h2 {
+  outline: 2px dashed yellow;
+  margin: 25px;
+}
+
+section {
+  outline: 1px solid black;
+  padding: 10px;
+}
+
+#larry {
+  color: red;
+}
+
+#curly {
+  color: blue;
+}
+
+#moe {
+  color: green;
+}
+
+#iggy {
+  color: #222;
+}
