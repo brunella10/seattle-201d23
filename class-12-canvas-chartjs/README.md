@@ -3,11 +3,13 @@
 <a id="top"></a>
 ## Today's Plan: Week 3, Wednesday Lecture
 
-#### Reminder: Quiz 7 and Quiz 8 now published; both due by 11:59pm Friday night.
+#### Reminder: Quiz 7 is published and is due on Thursday morning before class.
+#### Quiz 8 will be published this afternoon and will be due Friday morning before class.
 
 - Announcements
   - We'll continue doing one-on-one meetings today! [Click here to sign up for a slot!](https://sam-201d23.youcanbook.me)
   - In addition to the one-on-one meetings Sam will be in 2:30-4:00 this afternoon, he has another meeting 4:00-5:00, just like yesterday. As such, he'll be unusually scarce during lab time. Thank goodness for the ***awesome*** TAs!
+  
 On Friday afternoon we'll publish the entrance exam for Code 301, which doubles as the final exam for this course, and it will be due by Sunday night by 11:59pm. Do take this exam even if you are not planning to go to Code 301 right away, as it is part of your grade for this course. The exam is a bit different from the quizzes for multiple reasons:
 
 	1. It is longer: 25 questions. (Still all multiple-guess, at least)
