@@ -12,10 +12,10 @@
   
 On Friday afternoon we'll publish the entrance exam for Code 301, which doubles as the final exam for this course, and it will be due by Sunday night by 11:59pm. Do take this exam even if you are not planning to go to Code 301 right away, as it is part of your grade for this course. The exam is a bit different from the quizzes for multiple reasons:
 
-	1. It is longer: 25 questions. (Still all multiple-guess, at least)
-	2. It is administered by a service called EdRepublic and is actually their exam mechanism embedded in Canvas, so it is going to look and feel a little different. You've seen it before, on the 201 entrance exam that you took.
-	3. You only get one attempt at taking it. No re-dos.
-	- Do note, though, that you can still be resourceful and use books, Google, a REPL, whatever, to answer the questions.
+1. It is longer: 25 questions. (Still all multiple-guess, at least)
+2. It is administered by a service called EdRepublic and is actually their exam mechanism embedded in Canvas, so it is going to look and feel a little different. You've seen it before, on the 201 entrance exam that you took.
+3. You only get one attempt at taking it. No re-dos.
+4.Do note, though, that you can still be resourceful and use books, Google, a REPL, whatever, to answer the questions.
 
 ---
 
