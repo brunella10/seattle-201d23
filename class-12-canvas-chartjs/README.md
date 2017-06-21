@@ -1,92 +1,74 @@
-# Class 13: Add Local Storage to Your Vote Tracker; UI/UX Concepts
+# Class 12: Add a Chart to Your Vote Tracker
 
 <a id="top"></a>
-## Today's Plan: Week 3, Wednesday Lecture
+## Today's Plan: Week 3, Tuesday Lecture
 
-#### Reminder: Quiz 7 is published and is due on Thursday morning before class.
-#### Quiz 8 will be published this afternoon and will be due Friday morning before class.
+#### Quiz 7 will be published this afternoon, and will be due tomorrow (Wednesday) night.
 
 - Announcements
   - We'll continue doing one-on-one meetings today! [Click here to sign up for a slot!](https://sam-201d23.youcanbook.me)
-  - In addition to the one-on-one meetings Sam will be in 2:30-4:00 this afternoon, he has another meeting 4:00-5:00, just like yesterday. As such, he'll be unusually scarce during lab time. Thank goodness for the ***awesome*** TAs!
-  
-On Friday afternoon we'll publish the entrance exam for Code 301, which doubles as the final exam for this course, and it will be due by Sunday night by 11:59pm. Do take this exam even if you are not planning to go to Code 301 right away, as it is part of your grade for this course. The exam is a bit different from the quizzes for multiple reasons:
+  - In addition to the one-on-one meetings Sam will be in 2:30-4:00 this afternoon, he has another meeting 4:00-5:00. As such, he'll be unusually scarce during lab time.
 
-1. It is longer: 25 questions. (Still all multiple-guess, at least)
-2. It is administered by a service called EdRepublic and is actually their exam mechanism embedded in Canvas, so it is going to look and feel a little different. You've seen it before, on the 201 entrance exam that you took.
-3. You only get one attempt at taking it. No re-dos.
-4.Do note, though, that you can still be resourceful and use books, Google, a REPL, whatever, to answer the questions.
+  ---
 
----
+- [Code Review](#codereview)
 
-- **[Final Projects discussion](#projects)**
+*10 minute break*
 
-- **Code Review**
+- [\<canvas> and ChartJS overview](#chartjs)
 
-***10 minute break***
+*10 minute break*
 
-- **[Persistence and Local Storage](#ls)**
-
-***10 minute break***
-
-- **[UI/UX discussion](#uiux)**
-
-- **Review today's lab assignment**
+- Code demo with ChartJS
 
 ---
 
-**Learning Objectives**
+ **Learning Objectives**
 
-As a result of completing Day 13 of Code 201, students will:
+ As a result of completing Day 12 of Code 201, students will:
 
-- Be able to understand concepts in persistence and the JavaScript commands needed to read/write to/from local storage, as measured by successful completion of the daily code assignment and also by a quiz administered in Canvas.
-- Demonstrate knowledge and command of JSON syntax and structure, as measured by successful completion of the daily code assignment and also by a quiz administered in Canvas.
+ - Demonstrate understanding of how the \<canvas> element can be used, as demonstrated by observations of the instructional staff during class discussion and a quiz administered through Canvas.
+ - Demonstrate the ability to read documentation to utilize a JavaScript library, as demonstrated by successful completion of the daily code assignment.
 
 ## Readings
 
-- [Read this article on local storage](http://diveintohtml5.info/storage.html)
-
-<a id="uiux"></a>
-## UI & UX discussion
-
-Let's have a discussion on UI/UX, and also look at a few websites (some awesome, some kind of randomly chosen) relating to design and interaction.
-
-- [All Websites Look the Same](http://www.zeldman.com/2015/09/10/all-websites-look-the-same/)
-- [5 Ridiculously Common Misconceptions about UX](https://www.sitepoint.com/5-ridiculously-common-misconceptions-about-ux/)
-- [The A11Y Project](http://a11yproject.com/)
-- [10 Web design trends you can expect to see on websites in 2015](http://thenextweb.com/dd/2015/01/02/10-web-design-trends-can-expect-see-2015/)
-- [40 Stunning Website Designs with Great Color Schemes](http://www.onextrapixel.com/2013/10/25/40-stunning-website-designs-with-great-color-schemes/)
-- [Practical Typography](http://practicaltypography.com/)
-- [Seattle Times project on the Ehlwa River](https://github.com/seattletimes/elwha)
-
-When you start with your own projects, one of the things you will be fully responsible for is UI and UX. Be thoughtful. Find a design or layout you like and build something that mimics it. ALWAYS try to view your project from the perspective of someone who has never seen it before. Does the user need instructions? Are the user interactions clear to a new user?
+- Read about the \<canvas\> API by looking at the MDN docs
+- [Read this article on ChartJS](http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+- [Look over the ChartJS documentation](http://www.chartjs.org/docs/)
 
 [-top-](#top)
 
-<a id="ls"></a>
-## Local Storage (with code demo)
+<a id="codereview"></a>
+## Code Review [45-60 minutes]
 
-Let's learn about local storage!
+The goal for today is to get everyone as close to possible to having yesterday finished. Ideally, we'll look at and fix someone's work that will allow us to put our new debugging skills to work. We'll need to put a hard stop on the end of code review at 10:00 so that we can get to everything else today.
 
 [-top-](#top)
 
-<a id="Projects"></a>
-## Discussion on Final Projects
+<a id="chartjs"></a>
+## ChartJS (with code demo following)
 
-- Review project assignment specifications
-- Discuss process for selecting projects and setting teams
-- FAQ
-  - Are all of the requirements firm? (No, there is room for negotiation, but variances must be pre-approved)
-  - Can teams use API data? (Generally no, there are ways to mock that up more in line with our  technical command at this point. That's covered extensively in 301)
-  - What can teams use outside of the good ole HTML, CSS, JS, etc.? Are there any approved libraries? (It's easier to name the excluded libraries: jQuery, any CSS libraries/frameworks such as Bootstrap or Skeleton. It's OK to use other libraries or utilities like ChartJS or Google Maps, but we'll discuss them as part of reviewing your project plan.)
+**General related topics**
 
-- [Mars Mission](https://abdih17.github.io/Mars-Mission/index.html)
-- [Event.prototype.planIt](http://eventprotoplanit.com/)
-- [Century Cycle Tracker](https://chaimaebettah.github.io/finalProject201/)
-- [Sasquatch Dice](http://mmailman.github.io/dice-game/)
-- [OnTrack](http://jeffgebhardt.github.io/on-track/)
-- [Pong Fellows](https://shaallfar.github.io/PongFellows/)
-- [Rock Paper Scissors](https://jmalesh.github.io/final-project/)
+- Libraries vs. frameworks
+- Minified code
+- CDNs
 
+**Read the following articles on the Canvas API.**
+
+1. [Basic usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+2. [Drawing shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+3. [Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+4. [Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+
+**Read this article on ChartJS**
+
+- [Read this article on ChartJS](http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+- Articles like this are often a good way to get an introduction to something new
+
+**Look over the ChartJS documentation**
+
+- [Look over the ChartJS documentation](http://www.chartjs.org/docs/)
+- Students should get used to reading and deciphering documentation... and those who have outstanding writing skills can consider developing a specialty in technical writing.
 
 [-top-](#top)
