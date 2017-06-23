@@ -58,7 +58,7 @@ As a result of completing Day 15 of Code 201, students will:
 
 Preview of the topics in Code 301, and some over-arching 'how the web works' discussion.
 
-#####Concepts in 301
+##### Concepts in 301
 - MVC
 - Responsive & Mobile-First Design
 - Single-Page Application Development (SPA)
@@ -68,13 +68,13 @@ Preview of the topics in Code 301, and some over-arching 'how the web works' dis
 - Relational Data
 - AJAX
 
-#####Languages in 301
+##### Languages in 301
 - HTML with Templating
 - Modularized CSS
 - Intermediate JavaScript including Functional Programming
 - jQuery Events & DOM Manipulation
 
-#####Other Alphabet Soup
+##### Other Alphabet Soup
 - CRUD
 - HTTP
 - REST
