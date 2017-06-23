@@ -96,7 +96,7 @@ Short overview of the basics of jQuery and direct students to online resources:
 <a id="project"></a>
 ## Final Project Overview, etc.
 
-###Roadmap
+### Roadmap
 
 - Weekend: Plan, plan, plan...
 - Monday morning: Finalize your Project Plan and share it with the instructional staff. We'll give you tips and pointers.
